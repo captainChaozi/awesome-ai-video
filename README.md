@@ -186,6 +186,7 @@ GitHub 项目按 Star 降序排列。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
+- [Window Peeper AI](https://windowpeeperai.pro/) — Window Peeper 窗户梗视频生成：上传一张成年人肖像，Wan 3.0 生成 14 秒 9:16 MP4（推近亮灯窗户、吃汉堡、对视、拉窗帘），积分制 $6.90 起，指南与提示词免费。
 
 ## 云厂商智能剪辑 / 高光拆条
 
